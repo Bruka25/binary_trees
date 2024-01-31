@@ -9,7 +9,7 @@
  *Return: 1 if a node is root, or 0 if a node is NULL or
  *        or if not a root node
  */
- 
+
 int binary_tree_is_root(const binary_tree_t *node)
 {
 	if (node == NULL)

@@ -2,7 +2,7 @@
 
 
 /**
- *binary_rotate_right - Function that performs a left rotation on a
+ *binary_tree_rotate_right - Function that performs a left rotation on a
  *                     binary tree
  *
  *@tree: Pointer to the root node to rotate

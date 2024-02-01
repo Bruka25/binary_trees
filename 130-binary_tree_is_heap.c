@@ -103,11 +103,10 @@ int balance(const binary_tree_t *tree)
 
 /**
  * perfect_tree - function that says if a tree is perfect or not
- * 
+ *
  *@tree: Tree to check if it is perfect or not
  *
  *Return: 0 if is not a perfect or height of the perfect tree
-
  */
 
 int perfect_tree(const binary_tree_t *tree)

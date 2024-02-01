@@ -1,11 +1,10 @@
 #include "binary_trees.h"
 
-
+int balance_factor(const binary_tree_t *tree);
 avl_t *insert_recursively(avl_t **tree, avl_t *parent,
 		avl_t **new, int value);
 
 size_t avl_tree_height(const binary_tree_t *tree);
-int balance_factor(const binary_tree_t *tree);
 
 /**
  *avl_insert - Function that inserts a value into an AVL

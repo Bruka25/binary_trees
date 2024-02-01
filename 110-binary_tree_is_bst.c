@@ -4,7 +4,7 @@
 int bst_checker(const binary_tree_t *tree, int low, int high);
 
 /**
- *binary_tree_is_bst - Function that check if a tree is a 
+ *binary_tree_is_bst - Function that check if a tree is a
  *                     valid binary search tree
  *
  *@tree: Pointer to the root of the node to check

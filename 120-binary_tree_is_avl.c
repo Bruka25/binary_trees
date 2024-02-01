@@ -56,7 +56,7 @@ size_t avl_tree_height(const binary_tree_t *tree)
  *@low: The value of the smallest node visited thus far
  *@high: The value of the largest node visited this far
  *
- *Return: If the tree is a valid AVL tree, 1 
+ *Return: If the tree is a valid AVL tree, 1
  *        otherwise 0
  */
 int avl_helper(const binary_tree_t *tree, int low, int high)
